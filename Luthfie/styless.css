@@ -1,0 +1,21 @@
+ul{
+	color:red;
+	border: 2px solid rebeccapurple;
+	font-weight: bold;
+	margin-right: 60%;
+	margin-left:5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+
+}
+.kotak{
+	border: 5px solid rebeccapurple;
+	color:white;
+	padding: 10px;
+	width: 50%;
+	margin: 10px;
+	background: black;	
+}
+h1{
+	border: 5px solid rebeccapurple;
+}
